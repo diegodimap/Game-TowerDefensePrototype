@@ -1,0 +1,13 @@
+5.6.1f1:3.1.0.0
+WebGL
+J:/Unity/Editor/Data/Managed/UnityEngine.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/nunit.framework.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+J:/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+J:/Unity/Editor/Data/Managed/UnityEditor.dll
+J:/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll
+J:/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll
